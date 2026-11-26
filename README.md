@@ -16,6 +16,10 @@ Takes raw order history data and answers one core question:
 
 ## What I Found
 
+<p align="center">
+  <img src="" width="45%">
+</p>
+
 **Reorder speed:**
 - 32% of weekday users reorder within 7 days
 - 30.6% of weekend users reorder within 7 days
