@@ -58,8 +58,8 @@ meituan-cohort-retention/
 │   └── raw/
 │       └── orders.csv
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_cohort_analysis.ipynb
+│   ├── 01_EDA_Load_data.ipynb
+│   ├── cohort_analysis.ipynb
 │   └── 03_insights.ipynb
 └── outputs/
     ├── retention_heatmap.png
