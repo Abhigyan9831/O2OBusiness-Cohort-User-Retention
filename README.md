@@ -60,7 +60,7 @@ meituan-cohort-retention/
 ├── notebooks/
 │   ├── 01_EDA_Load_data.ipynb
 │   ├── cohort_analysis.ipynb
-│   └── 03_insights.ipynb
+│   └── insights_heatmap.ipynb
 └── outputs/
     ├── retention_heatmap.png
     └── retention_linegraph.png
