@@ -17,6 +17,7 @@ Takes raw order history data and answers one core question:
 ## What I Found
 
 <p align="center">
+  <img src="outputs/retention_heatmap.png" width="45%">
   <img src="" width="45%">
 </p>
 
