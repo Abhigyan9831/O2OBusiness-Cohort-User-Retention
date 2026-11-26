@@ -68,8 +68,28 @@ meituan-cohort-retention/
 
 
 ## How to Run
-
+```
 conda create -n meituan-cohort python=3.11
 conda activate meituan-cohort
 conda install pandas numpy seaborn matplotlib scipy jupyterlab -y
 jupyter lab
+```
+## Future Goals
+
+This project is actively being improved. Next steps planned:
+
+**1. RFM Segmentation**  
+Group users into segments like ALL Time Users, Regular Users, At-Risk Low visiting Users, and Lost 
+based on three factors how recently they ordered, how often they 
+order, and how many total orders they have placed. This gives a cleaner targeting list instead of treating all users the same.
+
+**2. Churn Prediction Flag**  
+Label any user who has not placed an order in 30 or more days as churned. 
+Then build a simple model to identify which early signals (order gap, 
+first order day, reorder speed) predict churn before it happens. 
+This lets User Ops intervene early with a re-engagement coupon before 
+the user is fully lost.
+
+Both additions will be built on top of the existing pipeline with no 
+change to the current notebook structure.
+
