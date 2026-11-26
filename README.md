@@ -51,9 +51,9 @@ Takes raw order history data and answers one core question:
 
 ## Dataset
 
-Instacart Online Grocery Shopping Dataset 2017  
-Source: https://www.kaggle.com/competitions/instacart-market-basket-analysis/data  
-3.4M orders, 206K users
+Instacart Online Grocery Shopping Dataset 2017 you can find here that I used: 
+Source: https://www.kaggle.com/code/tanjaadzic/instacart-dataset-2017-exploration-and-analysis
+
 
 ## Project Structure
 
