@@ -17,8 +17,8 @@ Takes raw order history data and answers one core question:
 ## What I Found
 
 <p align="center">
-  <img src="outputs/retention_heatmap.png" width="45%">
-  <img src="" width="45%">
+  <img src="outputs/retention_heatmap.png" width="1080" height="1920">
+  <img src="outputs/retention_linegraph.png" width="1080" height="1920">
 </p>
 
 **Reorder speed:**
